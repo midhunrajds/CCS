@@ -1,4 +1,4 @@
-Possible tasks:
+Tasks and Solutions:
 ====
 
 
